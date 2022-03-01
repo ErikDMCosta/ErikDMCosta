@@ -30,17 +30,17 @@
   
   <img align="right" alt="Erik-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/KM5VB4E9XmX2yjXMVZ1olSCVPX3ZAmkZYHfUC9Fjhz1syCLyiAWY-TWSkz7LfQpM-654tv95Wl-6sunFL6Dwi80m55FXYoWUiK5h7KVWjLkpX-ayckyQIXv6npqfiQEMmAJXT-0519ltgqlWVIiCJMvpSNB6Q3arxJ38Er1hfwQ8_UTxvuOt1-KbvD9TtD0_TYOv6uOwPKWavNY1o6oc49yYmdKn50H1rW3TUvs026vLHeNrS16nYGl7oHcrkePqbZnkSFMXEjfaH3wjTeiCQZ6IWuUPybuPSKq0WPPImGADkJbrP2YVEccuNra5p7HHFCVX-y92CWePvwBd5QAplr6F9Z83UeLJSFr_lGMKKQAyDNgknhdjTVDZMQlpzojCwB4lJyffmcD1l_Fbg6eVYNcsdMTbZqagxVZzXp5raTDQBW8hDpjdcnktoywdkIf6yAEcYwOuybY1ft8UMeSvuK2aSJsx6bux1Dxabc0deLIRIR3Mo7XN60LracBUXHC3LJ5vb7ShXdb3vkSIb-Zog4xwRFRa8o-xyCX6XFJEiQ9kBfX8IVepTBhC6WFyCEwsChymVaP36RjDPVpUMZiQw2mD1P1yhJhH0kooAVpFL6WNY4Vn87nJRj96Q8tjK-cogaQhlCVcaFk4AClOg2D5L9WnHbqHnuLTz3EPpVOPQBwYei337rLlnDg_9ebFxBcxwu54h8R6s4qc9OS3g55Y_G8=w437-h441-no?authuser=0">
 </div>
-  
+    
   ##
- 
-<div align="center" > 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
- 	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:erikdmcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/erikdmcosta/erikdmcosta/blob/output/github-contribution-grid-snake.svg)
- 
+
+# OS: <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" target="_blank"><br>
+
+# SKILLS: <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/%C3%A9rik-de-moraes-costa-b35a091b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UCTH_IYiETfb26Emx6W3lQuw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/erikdmcosta" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
+  
+![Snake animation](https://github.com/erikdmcosta/erikdmcosta/blob/output/github-contribution-grid-snake.svg)
