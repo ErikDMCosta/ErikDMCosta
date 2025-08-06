@@ -33,6 +33,7 @@
 ![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-0D1117?style=for-the-badge&logo=docker&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
+<!--
 <div align="center">
   <br>
   <p align="center">
@@ -43,5 +44,6 @@
   </p> 
   <br>
 </div>
+-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282a36&height=120&section=footer"/>
